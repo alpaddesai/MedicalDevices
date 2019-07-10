@@ -1,0 +1,15 @@
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\bin\Release\MedicalDevices.exe.config
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\bin\Release\MedicalDevices.exe
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\bin\Release\MedicalDevices.pdb
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MedicalDevices.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MedicalDevices_MarkupCompile.cache
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MedicalDevices_MarkupCompile.lref
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MedicalDevices.g.resources
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MedicalDevices.Properties.Resources.resources
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MedicalDevices.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MedicalDevices.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MedicalDevices.exe
+C:\Users\ADG\source\repos\MedicalDevices\MedicalDevices\obj\Release\MedicalDevices.pdb
