@@ -1,0 +1,61 @@
+﻿<Window x:Class="MedicalDevices.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MedicalDevices"
+        mc:Ignorable="d"
+        Title="Medical Devices" Height="716.002" Width="1215.585" MaxWidth="1216" MaxHeight="716">
+    <Grid Margin="0,0,0,1">
+        <RichTextBox HorizontalAlignment="Left" Height="475" Margin="9,7,0,0" VerticalAlignment="Top" Width="532" TextChanged="RichTextBox_TextChanged">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Medical devices are apparatuses that utilize engineering and scientific principles to interface to physiology and diagnose or treat a disease. Computer based medical devices are termed as medical instruments.  Patient monitoring devices refer to the continuous observation of repeating events of physiologic function to guide therapy.  Medical diagnostics refers to discrete testing conducted to provide critical health care information for risk assessment, early diagnosis, treatment or disease management. "/>
+                    <Run FontWeight="Bold" Text="Reference: "/>
+                    <Run FontWeight="Bold" FontStyle="Italic" Text="A biosystems approach to industrial patient monitoring and diagnostic devices,"/>
+                    <Run Text=" Gail Baura 2008"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontWeight="Bold" Text="Classification:  "/>
+                    <Run Text=" "/>
+                    <Run Text="The general idea is that low risk devices are class I and high risk devices are class III. The Eurostat classification process is a step by step rule based process for Medical Devices.  "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Design Control:"/>
+                    <Run Text=" "/>
+                    <Run Text="  Due to medical device regulations ( FDA, 1997, FDA 21, ISO 13485 and ISO 9001) the design process needs to be controlled to meet the regulations. "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Product Design process: "/>
+                    <Run Text=" "/>
+                    <Run Text="Consists of clarification, product specification, conceptual design, detailed design, evaluation and release.  "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Product Design Specifications (PDS) : "/>
+                    <Run Text=" "/>
+                    <Run Text="Need to meet FDA, Medical Device Directive (MDD) and ISO 13485 (quality system management standards) requirements. It consists of the following sections:  Introduction and Scope, Performance Requirements, Manufacturing Requirements, Acceptance Requirements and Environmental Requirements. "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Quality in Design:  "/>
+                    <Run Text=" "/>
+                    <Run Text="An optimal design meets the quality requirements of the device, along with ISO requirements along with budget constraints.  "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Validation and Verification: "/>
+                    <Run Text=" "/>
+                    <Run Text="In EC, this is known as clinical evaluation and under FDA guidelines validation and verification, in the PDS document it falls under the acceptance criteria. "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Supply chain logistics and manufacturing"/>
+                    <Run Text=" "/>
+                    <Run Text=": Entails package testing, storage considerations and managing suppliers.   "/>
+                    <Run FontWeight="Bold" FontStyle="Italic" Text="Reference:  Medical Device Design: Innovation from Concept to Market "/>
+                    <Run FontStyle="Italic" Text="Peter Ogrodnik , 2012"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontWeight="Bold" Text="Bioinformatics : "/>
+                    <Run Text="In the data management process, data are authored by clinicians and researchers and generated directly by research and equipment. Common data models are flat, object oriented, hierarchical, network, relational deductive and semi structured. Interfaces are utilized to process an existing database.  Common sources of input data include mouse, keyboard activity, voice recognition, barcode readers, wireless devices and RF-ID tags. Electronic data recorders, sequencing machines and a variety of test equipment can also provide data for inclusion in the database, according to the device communications standards. Common Gateway Interface (CGI), PHP: Hypertext processor and Java. A user submits a query through a web browser and the server executes a program, a CGI script and the user's query is transferred to the database via CGI. The program returns information to the server via CGI and this information is formatted in an HTML web page which is displayed through the user's browser. Communication models include client - server and peer to peer.  Bioinformatics R&amp;D involves the generation, capture, management and repurposing of vast amounts of data.  Hardware components include the common medial ie. wireless networks or fiber optics. and network electronics.    Major devices for network electronics includes:  Bridge, Hub (star topology), Modem (LAN or internet network), Monitor (monitors activity by network by node and network segment), Router(sends data transmissions only to portion of  a network meant to receive them), Satellite (transmits signals from a server in orbit), Server ( supplies files and applications to clients), Switch (selects network paths at high speeds), UPS ( provides uninterruptible power for network electronics), Wireless Hub ( cable free access to servers, shared resources and the internet), Wireless Modem ( allows workstations and laptops to communicate). "/>
+                    <Run FontWeight="Bold" FontStyle="Italic" Text="Reference: Bioinformatics Computing by Bryan Bergeron 2002"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Image HorizontalAlignment="Left" Height="193" Margin="9,485,0,0" VerticalAlignment="Top" Width="304" Source="Image1.png"/>
+        <Label Content="System Theory Applications for Physiologic Signals" HorizontalAlignment="Left" Margin="224,492,0,0" VerticalAlignment="Top" Width="278"/>
+        <Image Margin="544,7,0,10" Source="NEW Heathcare over time.jpg" Stretch="Fill"/>
+
+    </Grid>
+</Window>
