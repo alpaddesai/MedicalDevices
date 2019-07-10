@@ -1,4 +1,4 @@
-# MedicalDevices
+# Medical Devices
 The project provides content and references focused on medical devices, healthcare and bioinformatics.
 
 For details, please click on the executable located https://github.com/alpaddesai/MedicalDevices/releases
