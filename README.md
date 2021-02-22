@@ -8,4 +8,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Co
 ## Basics in Biology
 ![image](BiologyCertificate.jpg)
 
+## Interest
+![image](image.png)
+
 Additional details : https://github.com/alpaddesai/HardwareEngineeringLab4-
