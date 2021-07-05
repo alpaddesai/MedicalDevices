@@ -13,4 +13,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Co
 
 ![image](image_1.png)
 
+## Ethics and Excellence
+![image](EthicsandExcellence.png)
+
 Additional details : https://github.com/alpaddesai/HardwareEngineeringLab4-
