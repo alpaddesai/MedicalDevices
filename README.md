@@ -9,7 +9,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Co
 ![image](BiologyCertificate.jpg)
 
 ## Penn State
-![image](PennState.jpg)
+![image](PennStateII.jpg)
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
