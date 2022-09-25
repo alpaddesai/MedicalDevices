@@ -9,4 +9,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Co
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Additional details : https://github.com/alpaddesai
